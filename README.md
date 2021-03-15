@@ -42,7 +42,12 @@ IoT  Μετεωρολογικός Σταθμός & Σεισμογράφος ΕΠ
 
 
 Κιτ Μετεωρολογικού Σταθμού                  79.90 €  
-		       
+Αισθητήρας Υγρασίας Εδάφους	              2   € 
+Αισθητήρας Θερμοκρασίας DS18B20 Αδιάβροχος    3   €
+POWER SUPPLY INDUSTRIAL 5V 10A 50W          12.02 €
+BATTERY CHARGER LEAD-ACID 0.8A - G          12,50 €         
+BATTERY 18650 3.6V - 3350mAh PANASO          5,84 €                     
+
 
 ΤΟ ΚΙΤ ΠΕΡΙΕΧΕΙ   τα παρακάτω και κοστίζει  84.90 €  
 1x Arduino MKR1000 board, with header soldered
